@@ -1,6 +1,3 @@
-Here’s a cleaner, more professional rephrased version of your project description:
-
----
 
 ### 🫁 Pneumonia Detection from Chest X-rays
 
@@ -49,7 +46,3 @@ Install the required dependencies using:
 ```bash
 pip install torch torchvision scikit-learn numpy
 ```
-
----
-
-If you want, I can also make it **resume-ready**, **GitHub README optimized**, or add **accuracy/results section**.
